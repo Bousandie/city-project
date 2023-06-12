@@ -2,7 +2,7 @@ body{
     text-align: center;
 }
 #hero-section{
-    background-image: url('./images/lagos.jpg');
+    background-image: url('lagos.jpg');
     background-size: cover;
     height: 500px;
     display: flex;
